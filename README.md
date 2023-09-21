@@ -1,4 +1,4 @@
-# Project name
+# Healthcare utilisation in individuals with Long Covid
 
 ## Project description
 
@@ -12,4 +12,4 @@ The issues stated above will be addressed in outputs from a number of related su
 
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCUXXX).
+This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCU049).
